@@ -1,5 +1,4 @@
 ## Test Storage
-[![Build Status](https://github.com/test-storage/test-storage/workflows/CI/badge.svg)](hhttps://github.com/test-storage/test-storage) [![Telegram](https://img.shields.io/badge/telegram-join%20chat-blue.svg?style=flat)](https://telegram.me/joinchat/Dz6MkggusIGwAUb4Qg1hwQ)
 
 Test Storage - test case management system.
 
@@ -15,10 +14,7 @@ __password:__ admin
 
 
 ## Change log
-If you want to take a look at [change log](https://github.com/pumano/test-storage/blob/master/CHANGELOG.md) just click [here](https://github.com/pumano/test-storage/blob/master/CHANGELOG.md).
+If you want to take a look at change log
 
 More features will be supported shortly!
 
-## Contributing
-
-Check details [here](https://github.com/pumano/test-storage/blob/master/CONTRIBUTING.md)
